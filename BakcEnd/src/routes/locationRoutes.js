@@ -14,7 +14,6 @@ router.post('/location/create', locationController.createLocation);
 
 router.get('/location/all', locationController.getAllLocations);
 
-// Error handling middleware (example)
 router.use((err, req, res, next) => {
   console.error(err.stack);
   res.status(500).send('Something went wrong!');
