@@ -36,17 +36,13 @@ Frontend:
 
 
 - Run the following commands:
-
-bash
-npm install
-npx sequelize-cli db:migrate
-npm start
+ - npm install
+ - npx sequelize-cli db:migrate
+ - npm start
 
 
 
 Check if the backend is running by visiting
-
-bash
 http://localhost:4000
 
 
@@ -55,15 +51,13 @@ http://localhost:4000
 - Using Node 18.12.0
 
 
-bash
-- Run the following commands:
 
-bash
-yarn install
-yarn dev
+- Run the following commands:
+ - yarn install
+ - yarn dev
 
 
 Check if the frontend is running by visiting
 
-bash
+
 http://localhost:3000
