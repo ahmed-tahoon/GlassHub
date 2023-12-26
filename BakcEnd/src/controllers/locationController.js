@@ -1,5 +1,5 @@
 const LocationService = require("../services/locationService");
-const config = require("../../config/config"); // Import your configuration
+const config = require("../../config/config"); 
 const { baseURL } = config.development;
 
 class LocationController {
