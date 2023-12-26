@@ -55,7 +55,7 @@ export default {
     const selectedLocationPosition = ref(null);
     const selectedLocation = ref(null);
     const mapCenter = { lat: 24.6892, lng: 45.0445 };
-    const mapZoom = ref(4);
+    const mapZoom = ref(5);
 
     const loadLocations = async () => {
       try {
