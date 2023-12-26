@@ -23,13 +23,7 @@ class LocationController {
     try {
       const { title, fileUrl, latitude, longitude } = req.body;
 
-      if (!title || !fileUrl || !latitude || !longitude) {
-        return res.status(400).json({
-          error:
-            "Incomplete data. Please provide title, filePath, latitude, and longitude.",
-        });
-      }
-
+     
       const newLocation = await LocationService.addLocation(
         title,
         fileUrl,
