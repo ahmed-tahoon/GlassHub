@@ -1,0 +1,37 @@
+
+<svg width="300" height="332" viewBox="0 0 300 332" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Artwork">
+<path id="Rectangle 27 Copy 2" fill-rule="evenodd" clip-rule="evenodd" d="M135.812 123.551L259.691 157.59V276.697L135.812 223.329V123.551Z" fill="#8E99A3"/>
+<path id="Rectangle 27 Copy 3" fill-rule="evenodd" clip-rule="evenodd" d="M135.954 123.668L34.7769 151.941V277.097L135.954 222.925V123.668Z" fill="#A0AAB5"/>
+<g id="fly">
+<path id="path" d="M201.118 268.165C173.16 259.981 124.061 260.712 105.621 212.883C88.7223 169.048 151.062 126.86 168.503 145.33C180.861 158.419 165.02 177.294 143.038 175.173C118.295 172.787 103.67 150.66 108.549 126.86C118.226 79.6493 192.63 48.4139 195.766 46.238" stroke="url(#paint0_linear_155_75)" stroke-width="3" stroke-dasharray="6 7"/>
+<g id="bee">
+<ellipse id="Oval" opacity="0.4" cx="192.188" cy="19.7441" rx="12.0559" ry="15.8666" transform="rotate(-45 192.188 19.7441)" fill="#CED8E5"/>
+<ellipse id="Oval Copy" opacity="0.4" cx="222.875" cy="49.2886" rx="12.0559" ry="15.8666" transform="rotate(135 222.875 49.2886)" fill="#CED8E5"/>
+<g id="Rectangle 4">
+<path id="Mask" d="M197.633 39.1934C197.633 30.2464 204.886 22.9934 213.833 22.9934H218.457V27.5841C218.457 36.5311 211.204 43.7841 202.257 43.7841H197.633V39.1934Z" fill="#A8B7C5"/>
+<mask id="mask0_155_75" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="197" y="22" width="22" height="22">
+<path id="Mask_2" d="M197.633 39.1934C197.633 30.2464 204.886 22.9934 213.833 22.9934H218.457V27.5841C218.457 36.5311 211.204 43.7841 202.257 43.7841H197.633V39.1934Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_155_75)">
+<rect id="Rectangle 4_2" x="193.987" y="28.7751" width="3.28796" height="24.0734" transform="rotate(-45 193.987 28.7751)" fill="#DDE5F2"/>
+<path id="Rectangle 4 Copy" fill-rule="evenodd" clip-rule="evenodd" d="M200.563 23.3035L202.888 20.9785L219.91 38.001L217.585 40.3259L200.563 23.3035Z" fill="#DDE5F2"/>
+</g>
+</g>
+<path id="Path 7 Copy" d="M229.638 17.7836L237.637 15.88" stroke="#8696C5" stroke-width="0.9"/>
+<path id="Path 7" d="M226.35 14.5009L229.428 6.5835" stroke="#8696C5" stroke-width="0.9"/>
+<ellipse id="Oval 4" cx="221.745" cy="20.8043" rx="8.7679" ry="8.75397" fill="#8B9AA8"/>
+</g>
+</g>
+<path id="Rectangle 27" fill-rule="evenodd" clip-rule="evenodd" d="M34.7773 152.166L158.655 191.476V330.29L34.7773 276.922V152.166Z" fill="#DAE2EC"/>
+<path id="Rectangle 27 Copy" fill-rule="evenodd" clip-rule="evenodd" d="M260.315 157.437L156.898 191.476V330.29L260.315 276.922V157.437Z" fill="#C5D0D9"/>
+<path id="Path 17 Copy" fill-rule="evenodd" clip-rule="evenodd" d="M260.022 157.355L300 210.858L193.904 252.669L157.262 191.213L260.022 157.355Z" fill="#DAE2EC"/>
+<path id="Path 17" fill-rule="evenodd" clip-rule="evenodd" d="M34.6277 151.877L0 205.895L122.044 252.669L157.7 191.14L34.6277 151.877Z" fill="#C5D0D9"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_155_75" x1="125.041" y1="19.764" x2="37.5925" y2="62.1478" gradientUnits="userSpaceOnUse">
+<stop stop-color="#95ABC2"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
