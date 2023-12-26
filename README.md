@@ -6,7 +6,6 @@
 Backend:
 
 - [x] Node 18 
-- [x] 
 - [x] Services Design Pattern
 - [x] Repositories Design Pattern
 - [x] Multer for file upload handling
