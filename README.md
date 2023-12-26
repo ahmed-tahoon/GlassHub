@@ -9,6 +9,7 @@ Backend:
 - [x] Services Design Pattern
 - [x] Repositories Design Pattern
 - [x] Multer for file upload handling
+- [x] joi for Validation
 - [x] PostgreSQL && Sequelize
 - [ ] Unit Tests
 - [ ] Docker
