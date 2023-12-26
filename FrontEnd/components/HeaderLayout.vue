@@ -4,10 +4,11 @@
       <div
         class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl"
       >
-        <span
+        <router-link
+          to="/"
           class="self-center text-xl font-semibold whitespace-nowrap text-white"
-          >GlassHub</span
-        >
+          >GlassHub
+        </router-link>
 
         <div class="flex items-center lg:order-2">
           <router-link
