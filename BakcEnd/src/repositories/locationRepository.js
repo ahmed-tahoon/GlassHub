@@ -22,7 +22,6 @@ class LocationRepository {
       });
       return locations;
     } catch (error) {
-      // Throw a new Error object with concatenated messages for better error reporting
       throw new Error(`Error fetching locations: ${error.message}`);
     }
   }
