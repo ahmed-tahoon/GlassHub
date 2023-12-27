@@ -2,7 +2,7 @@ const Joi = require("joi");
 
 const locationSchema = Joi.object({
   title: Joi.string().required(),
-  fileUrl: Joi.string().uri().required(),
+  fileUrl: Joi.string().required(),
   latitude: Joi.number().required(),
   longitude: Joi.number().required(),
 });
